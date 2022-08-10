@@ -1,11 +1,10 @@
 <template>
   <div class="info">
-    <!-- <Voice ></Voice> -->
+    <h1>heohoari</h1>
   </div>
 </template>
 
 <script>
-
 import Voice from "@/components/voice";
 export default {
   components: {
